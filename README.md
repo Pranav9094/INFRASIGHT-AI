@@ -1,32 +1,36 @@
-# React + TypeScript + Vite
+# INFRA-SIGHT AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+### Autonomous Infrastructure Risk & Decision Support Platform
 
-Currently, two official plugins are available:
+Infra-Sight uses AI and multi-source infrastructure data to detect risks early and support faster engineering decisions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 🚀 Live Demo
 
-## React Compiler
+https://infrasight-ai.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ✨ Features
 
-## Expanding the Oxlint configuration
+* Infrastructure risk dashboard
+* Asset & risk radar
+* Evidence-based AI investigation
+* Overall asset intelligence summary
+* Risk & confidence scoring
+* Recommended inspections/actions
+* Multi-asset infrastructure monitoring
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+### 🧠 AI Flow
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```text
+Data → Evidence → Risk Analysis → AI Investigation → Action
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+### 🛠️ Run Locally
+
+```bash
+git clone https://github.com/Pranav9094/INFRASIGHT-AI.git
+cd INFRASIGHT-AI
+npm install
+npm run dev
+```
+
+Built by **Debug Survivors — Team Elites**.
