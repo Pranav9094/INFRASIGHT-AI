@@ -1,0 +1,167 @@
+﻿[
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Junnar ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4187 ",
+        "NATIONAL_HIGHWAY":  " 90.4 ",
+        "STATE_HIGHWAY":  " 75.03 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 275.7 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 142 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Ambegaon ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4188 ",
+        "NATIONAL_HIGHWAY":  " 20.2 ",
+        "STATE_HIGHWAY":  " 107.84 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 254.1 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 157.4 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Shirur ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4189 ",
+        "NATIONAL_HIGHWAY":  " 0 ",
+        "STATE_HIGHWAY":  " 208.81 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 382 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 357.59 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Khed ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4190 ",
+        "NATIONAL_HIGHWAY":  " 28.2 ",
+        "STATE_HIGHWAY":  " 122.35 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 261.57 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 209.8 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Mawal ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4191 ",
+        "NATIONAL_HIGHWAY":  " 60 ",
+        "STATE_HIGHWAY":  " 26.55 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 124.32 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 233.11 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Mulshi ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4192 ",
+        "NATIONAL_HIGHWAY":  " 0 ",
+        "STATE_HIGHWAY":  " 98.5 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 160.72 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 185.05 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Haveli ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4193 ",
+        "NATIONAL_HIGHWAY":  " 116 ",
+        "STATE_HIGHWAY":  " 126.1 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 137.97 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 46.18 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Pune City ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4194 ",
+        "NATIONAL_HIGHWAY":  " 0 ",
+        "STATE_HIGHWAY":  " 0 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 0 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 0 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Daund ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4195 ",
+        "NATIONAL_HIGHWAY":  " 67 ",
+        "STATE_HIGHWAY":  " 81.75 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 350.84 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 216.51 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Purandhar ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4196 ",
+        "NATIONAL_HIGHWAY":  " 0 ",
+        "STATE_HIGHWAY":  " 107 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 189.71 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 206.15 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Velhe ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4197 ",
+        "NATIONAL_HIGHWAY":  " 0 ",
+        "STATE_HIGHWAY":  " 49 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 118.85 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 111.4 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Bhor ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4198 ",
+        "NATIONAL_HIGHWAY":  " 28 ",
+        "STATE_HIGHWAY":  " 107.3 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 138.4 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 144.43 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Baramati ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4199 ",
+        "NATIONAL_HIGHWAY":  " 0 ",
+        "STATE_HIGHWAY":  " 133.18 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 298.43 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 314 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Indapur ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 4200 ",
+        "NATIONAL_HIGHWAY":  " 46 ",
+        "STATE_HIGHWAY":  " 99.15 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 267.84 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 260.41 "
+    },
+    {
+        "REFERENCE_YEAR":  " 2011-12 ",
+        "DISTRICT_NAME":  " Pune ",
+        "TALUKA_NAME":  " Districtlevel_Pune ",
+        "DISTRICT_CODE":  " 521 ",
+        "TALUKA_CODE":  " 9925 ",
+        "NATIONAL_HIGHWAY":  " 455.8 ",
+        "STATE_HIGHWAY":  " 1342.56 ",
+        "MAIN_DISTRICT_HIGHWAY":  " 2960.45 ",
+        "OTHER_DISTRICT_HIGHWAY":  " 2584.03 "
+    }
+]
